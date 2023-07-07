@@ -1,0 +1,1642 @@
+
+<!doctype html><html class="no-js f" lang="en"><head>
+    <meta charset="utf-8">
+
+    
+    <title>The best charts for color blind viewers | Blog | Datylon </title>
+    <meta name="description" content="Around 300 million people in the world are colorblind, 8% of men and 0.5% of women. Discover how you can make your charts color blind safe. ">
+    
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="google-site-verification" content="uMW14HpbVV69aR8aOPV9iOV6wOaOTgKGLl5X_KqTYZw">
+    <link rel="shortcut icon" href="https://www.datylon.com/hubfs/Datylon%20Brand%20Identity/Datylon_favicon_NEW2.svg">
+    
+    
+
+    
+
+    <!-- #custom head -->
+    
+    
+    
+    <!-- #END custom head-->
+
+    
+    
+
+    
+    <!-- Standar Header Includes -->
+
+    
+
+    
+    <meta property="og:description" content="Around 300 million people in the world are colorblind, 8% of men and 0.5% of women. Discover how you can make your charts color blind safe. ">
+    <meta property="og:title" content="The best charts for color blind viewers | Blog | Datylon">
+    <meta name="twitter:description" content="Around 300 million people in the world are colorblind, 8% of men and 0.5% of women. Discover how you can make your charts color blind safe. ">
+    <meta name="twitter:title" content="The best charts for color blind viewers | Blog | Datylon">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="https://www.datylon.com/hs-fs/hub/4144892/hub_generated/template_assets/32581413262/1677766640562/Marketplace/leadstreet/themes/popular-theme/css/blog.min.css">
+<link rel="stylesheet" href="https://www.datylon.com/hs-fs/hub/4144892/hub_generated/module_assets/32579515088/1601905987496/module_32579515088_PO_Social_Sharing.min.css">
+
+<style type="text/css">
+     
+    
+    .custom-sharer a {
+        border-radius: 50%;
+    }
+    
+
+    .custom-sharer a {
+        border: 1px solid #1a1a1a;
+        background-color: #1a1a1a;
+        margin-bottom: 0px;
+    }
+
+    .custom-sharer a svg {
+        fill: #ffffff;
+    }
+
+    .custom-sharer a:hover {
+        background-color: #ffffff;
+    }
+
+    .custom-sharer a:hover svg {
+        fill: #1a1a1a;
+    }
+    
+    
+    
+    @media(min-width: 1025px){
+        .custom-sharer-wrapper {
+          height: 0 !important;
+        }
+
+        .custom-sharer {
+          width: 50px !important;
+          margin-top: 1.5rem;
+          margin-left: -9.5rem;
+          padding-top: 1.7em;
+          text-align: center;
+        }
+
+        .custom-sharer-position-absolute .custom-sharer { 
+            margin-left: 0; 
+            position: relative;
+        }
+        .custom-sharer a{
+          margin-bottom: 10px;
+        }
+
+        .hs-blog-post.custom-sharer-vertical-active .widget-type-blog_content {
+            width: 90%;
+            max-width: 100%;
+            float: right;
+        }
+
+        .cm.custom-sharer-wrapper .inner-wrapper-sticky {
+            width: 0 !important;
+        }
+
+    }
+
+
+    @media(max-width: 1024px){
+        .cm.custom-sharer-wrapper {
+            margin-top: 2em;
+        }
+        .custom-sharer {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: center;
+            -webkit-align-items: center;
+            -ms-flex-align: center;
+            align-items: center;
+            margin-top: 0;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            margin-right: 7px;
+        }
+
+        .custom-sharer .sharer-title {
+            padding-right: 20px;
+            margin-bottom: 0;
+        }
+
+        .cm.custom-sharer-wrapper .inner-wrapper-sticky {
+            position: relative !important;
+            top: 0 !important;
+            left: 0 !important;
+            width: auto !important;
+        }
+
+    }
+
+</style>
+
+<link rel="stylesheet" href="https://www.datylon.com/hs-fs/hub/4144892/hub_generated/module_assets/32579171974/1598969861654/module_32579171974_PO_Footer_Column_Module.min.css">
+<!-- Editor Styles -->
+<style id="hs_editor_style" type="text/css">
+/* HubSpot Non-stacked Media Query Styles */
+@media (min-width:768px) {
+  .bottom_footer-column-1-row-0-vertical-alignment > .row-fluid {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: row;
+    display: flex !important;
+    flex-direction: row;
+  }
+  .cell_1647853874294-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+  }
+  .cell_1647853874294-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+  .cell_16472387412302-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+  }
+  .cell_16472387412302-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+  .cell_1647238741228-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+  }
+  .cell_1647238741228-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+  .cell_1647238741228-row-0-vertical-alignment > .row-fluid {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: row;
+    display: flex !important;
+    flex-direction: row;
+  }
+  .cell_1648185549529-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+  }
+  .cell_1648185549529-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+  .cell_1648185549529-row-0-vertical-alignment > .row-fluid {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: row;
+    display: flex !important;
+    flex-direction: row;
+  }
+  .cell_1648185580641-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+  }
+  .cell_1648185580641-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+  .cell_1648185580638-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+  }
+  .cell_1648185580638-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+}
+/* HubSpot Styles (default) */
+.footer-row-0-padding {
+  padding-top: px !important;
+  padding-bottom: 0px !important;
+  padding-left: px !important;
+  padding-right: px !important;
+}
+.cell_1647238170534-margin {
+  margin-top: px !important;
+  margin-bottom: 20px !important;
+}
+.cell_1647238174131-margin {
+  margin-top: px !important;
+  margin-bottom: 20px !important;
+}
+.cell_1647238172320-margin {
+  margin-top: px !important;
+  margin-bottom: 20px !important;
+}
+.cell_1647238168819-margin {
+  margin-top: px !important;
+  margin-bottom: 20px !important;
+}
+.cell_1647238165222-margin {
+  margin-top: px !important;
+  margin-bottom: 20px !important;
+}
+.footer-column-2-margin {
+  margin-top: px !important;
+  margin-bottom: 20px !important;
+}
+.bottom_footer-row-0-padding {
+  padding-top: 0px !important;
+  padding-bottom: 8px !important;
+  padding-left: px !important;
+  padding-right: px !important;
+}
+.bottom_footer-column-1-row-0-margin {
+  margin-top: 20px !important;
+  margin-bottom: 12px !important;
+}
+</style>
+<style>
+  @font-face {
+    font-family: "Roboto";
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Roboto/300.woff2") format("woff2"), url("/_hcms/googlefonts/Roboto/300.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Roboto/500.woff2") format("woff2"), url("/_hcms/googlefonts/Roboto/500.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Roboto/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Roboto/regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Roboto/700.woff2") format("woff2"), url("/_hcms/googlefonts/Roboto/700.woff") format("woff");
+  }
+</style>
+
+    
+
+    
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Google Consent Mode & GTM/GA -->
+<!-- ORIGINAL VERSION prior to 6/12/2022
+<script defer data-cookieconsent="ignore">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {dataLayer.push(arguments);}
+    gtag("consent", "default", {
+        ad_storage: "granted",
+        analytics_storage: "granted"
+    });
+    gtag("set", "ads_data_redaction", false);
+  </script>
+-->
+
+<script defer data-cookieconsent="ignore">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {dataLayer.push(arguments);}
+    gtag("consent", "default", {
+        ad_storage: "denied",
+        analytics_storage: "denied",
+        functionality_storage: "denied",
+        personalization_storage: "denied",
+        security_storage: "granted",
+        wait_for_update: 500,
+    });
+    gtag("set", "ads_data_redaction", true);
+    gtag("set", "url_passthrough", true);
+ </script>
+
+<!-- <script defer async src="https://www.googletagmanager.com/gtag/js?id=UA-58951960-1"></script>  -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NBX4HHB');</script>
+<link rel="amphtml" href="https://www.datylon.com/blog/data-visualization-for-colorblind-readers?hs_amp=true">
+
+<meta property="og:image" content="https://www.datylon.com/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-colorblind-viewers-overview-image-1200x628.png#keepProtocol">
+<meta property="og:image:alt" content="Best charts for color blind viewers - Find out what colors are the best and safest to use in a chart for color blind people, and what are the colors you should avoid using.">
+<meta name="twitter:image" content="https://www.datylon.com/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-colorblind-viewers-overview-image-1200x628.png#keepProtocol">
+<meta name="twitter:image:alt" content="Best charts for color blind viewers - Find out what colors are the best and safest to use in a chart for color blind people, and what are the colors you should avoid using.">
+
+<meta property="og:url" content="https://www.datylon.com/blog/data-visualization-for-colorblind-readers">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="https://www.datylon.com/blog/data-visualization-for-colorblind-readers">
+
+<meta property="og:type" content="article">
+<link rel="alternate" type="application/rss+xml" href="https://www.datylon.com/blog/rss.xml">
+<meta name="twitter:domain" content="www.datylon.com">
+
+<meta http-equiv="content-language" content="en">
+
+
+
+
+
+
+
+      
+    
+  <meta name="generator" content="HubSpot"></head>
+  <body class="body-header__scroll">
+    <div class="body-wrapper   hs-content-id-72061634877 hs-blog-post hs-blog-id-5643395983">
+       <!-- HEADER -->
+        
+            <div data-global-resource-path="Marketplace/leadstreet/themes/popular-theme/templates/partials/header.html"><header id="header" class="header">  
+    
+    <div class="main-navigation">
+        <div class="header__container standard">
+            <div class="header__logo header__logo--main">
+            <div id="hs_cos_wrapper_site_logo" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+  
+
+
+
+
+
+  <span id="hs_cos_wrapper_site_logo_hs_logo_widget" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="https://www.datylon.com" id="hs-link-site_logo_hs_logo_widget" style="border-width:0px;border:0px;"><img src="https://www.datylon.com/hubfs/Datylon%20Brand%20Identity/Datylon_logo_blue_NEW2.svg" class="hs-image-widget " style="width:400px;border-width:0px;border:0px;" width="400" alt="Datylon" title="Datylon"></a></span>
+</div>
+            </div>
+            <div class="header__column">
+            <div class="header__mobile_buttons">
+                <div class="header__navigation--toggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div class="header__row-1 header__navigation__mobile_group">
+                
+                <div class="header__navigation header--element">
+                <div id="hs_cos_wrapper_navigation-primary" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nav aria-label="Main menu" class="navigation-primary">
+  
+
+  
+
+  <ul class="submenu level-1" aria-hidden="false">
+    <div class="triangle-container level-1"><div class="triangle level-1"></div></div>
+    
+      
+
+  <li class="has-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="javascript:;" class="menu-link">Product</a>
+
+  
+  <input type="checkbox" id="Product" class="submenu-toggle">
+  <label class="menu-arrow" for="Product">
+    <svg width="20" height="20" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 256 512" class="svg-inline--fa fa-angle-down fa-w-8 fa-2x"><path fill="currentColor" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z" class=""></path></svg>
+  </label>
+  
+
+  
+
+  <ul class="submenu level-2" aria-hidden="true">
+    <div class="triangle-container level-2"><div class="triangle level-2"></div></div>
+    
+      
+
+  <li class="has-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="javascript:;" class="menu-link">Chart Design</a>
+
+  
+  <input type="checkbox" id="Chart Design" class="submenu-toggle">
+  <label class="menu-arrow" for="Chart Design">
+    <svg width="20" height="20" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 256 512" class="svg-inline--fa fa-angle-down fa-w-8 fa-2x"><path fill="currentColor" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z" class=""></path></svg>
+  </label>
+  
+
+  
+
+  <ul class="submenu level-3" aria-hidden="true">
+    <div class="triangle-container level-3"><div class="triangle level-3"></div></div>
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/chart-design/datylon-for-illustrator" class="menu-link">Datylon for Illustrator</a>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/chart-design/datylon-online-chart-maker" class="menu-link">Datylon Online</a>
+
+  
+</li>
+
+
+    
+  </ul>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="has-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="javascript:;" class="menu-link">Reporting</a>
+
+  
+  <input type="checkbox" id="Reporting" class="submenu-toggle">
+  <label class="menu-arrow" for="Reporting">
+    <svg width="20" height="20" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 256 512" class="svg-inline--fa fa-angle-down fa-w-8 fa-2x"><path fill="currentColor" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z" class=""></path></svg>
+  </label>
+  
+
+  
+
+  <ul class="submenu level-3" aria-hidden="true">
+    <div class="triangle-container level-3"><div class="triangle level-3"></div></div>
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/reporting/datylon-for-illustrator" class="menu-link">Datylon for Illustrator</a>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/reporting/datylon-report-studio" class="menu-link">Datylon Report Studio</a>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/reporting/datylon-report-server" class="menu-link">Datylon Report Server</a>
+
+  
+</li>
+
+
+    
+  </ul>
+
+  
+</li>
+
+
+    
+  </ul>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://insights.datylon.com/stories/demo" class="menu-link">Inspiration</a>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/pricing" class="menu-link">Pricing</a>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/projects" class="menu-link">Projects</a>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="has-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="javascript:;" class="menu-link">Resources</a>
+
+  
+  <input type="checkbox" id="Resources" class="submenu-toggle">
+  <label class="menu-arrow" for="Resources">
+    <svg width="20" height="20" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 256 512" class="svg-inline--fa fa-angle-down fa-w-8 fa-2x"><path fill="currentColor" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z" class=""></path></svg>
+  </label>
+  
+
+  
+
+  <ul class="submenu level-2" aria-hidden="true">
+    <div class="triangle-container level-2"><div class="triangle level-2"></div></div>
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/resources/chart-library" class="menu-link">Chart Library</a>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/blog" class="menu-link">Blog</a>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/customer-stories" class="menu-link">Customer Stories</a>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://help.datylon.com/faq" class="menu-link">FAQ</a>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://help.datylon.com/" class="menu-link">Help Center</a>
+
+  
+</li>
+
+
+    
+  </ul>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="has-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="javascript:;" class="menu-link">About us</a>
+
+  
+  <input type="checkbox" id="About us" class="submenu-toggle">
+  <label class="menu-arrow" for="About us">
+    <svg width="20" height="20" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 256 512" class="svg-inline--fa fa-angle-down fa-w-8 fa-2x"><path fill="currentColor" d="M119.5 326.9L3.5 209.1c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0L128 287.3l100.4-102.2c4.7-4.7 12.3-4.7 17 0l7.1 7.1c4.7 4.7 4.7 12.3 0 17L136.5 327c-4.7 4.6-12.3 4.6-17-.1z" class=""></path></svg>
+  </label>
+  
+
+  
+
+  <ul class="submenu level-2" aria-hidden="true">
+    <div class="triangle-container level-2"><div class="triangle level-2"></div></div>
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/about-us" class="menu-link">Why Datylon</a>
+
+  
+</li>
+
+
+    
+      
+
+  <li class="no-submenu menu-item hs-skip-lang-url-rewrite">
+    <a href="https://www.datylon.com/jobs" class="menu-link">Jobs</a>
+
+  
+</li>
+
+
+    
+  </ul>
+
+  
+</li>
+
+
+    
+  </ul>
+
+</nav></div>
+                
+                </div>
+                
+                
+                <div class="header__cta--wrapper">
+                <div id="hs_cos_wrapper_header-2nd-cta" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+<a class="header_second__cta" href="https://insights.datylon.com/create/stories" target="_blank">
+	Sign in
+</a></div>
+                </div>
+                
+                
+                <div class="header__cta--wrapper">
+                <div id="hs_cos_wrapper_header-cta" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+<a class="header__cta" href="https://insights.datylon.com/auth/join" target="_blank">
+	Get started
+</a></div>
+                </div>
+                
+                
+            </div>
+            </div>
+        </div>
+    </div>
+</header></div>
+        
+       <!-- #END HEADER END# -->
+
+       <!-- BODY -->
+        
+<!-- post block -->
+
+
+
+
+
+<div id="hs_cos_wrapper_post_hero" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"></div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="blog-content-main-wrapper  ">
+    <div class="content-wrapper">
+        <div class="blog-post">
+            <div class="blog-post-container blog-post-tag-title-wrapper">
+              
+              
+              <div class="post-title-tags">
+                
+                <div class="breadcrumbs-tags-wrapper">
+                  
+                  <h6 class="blog-post__tags">
+                    <a class="breadcrumbs-title-wrap blog-post__tag-link" href="https://www.datylon.com/blog">Blog</a><span class="breadcrumbs-custom-divider">&gt;</span>
+                    
+                    <a class="blog-post__tag-link" href="https://www.datylon.com/blog/tag/dataviz-best-practices">DataViz Best Practices</a>
+                    
+                  </h6>
+                 </div>
+                
+                <h1><span id="hs_cos_wrapper_name" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="text">The best charts for color blind viewers</span></h1>
+              </div>
+            </div>
+            <div class="blog-post-container blog-post-meta-body-wrapper">
+              
+              <div class="blog-post__meta">
+              
+                  <div class="blog-header__author-avatar">
+                      <img class="avatar" src="https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/ivan-kilin.jpeg?width=56&amp;name=ivan-kilin.jpeg" alt="Ivan Kilin - Data Visualization Specialist">
+                  </div>
+              
+              <a class="blog-header__author-name" href="https://www.datylon.com/blog/author/ivan">
+                  Ivan Kilin - Data Visualization Specialist
+              </a>
+              <div class="blog-post__timestamp">
+                  April 27, 2022
+              </div>
+              </div>
+              
+              <div class="blog-post__body">
+              
+              <div id="hs_cos_wrapper_social_sharing_module_blog" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<div class="cm custom-sharer-wrapper 
+    custom-sharer-flow-vertical   
+    custom-sharer-position-fixed" data-class="">
+    <div class="custom-sharer">
+        
+        <span class="sharer-title">SHARE</span>
+        
+        
+        <a class="facebook-icon" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.datylon.com%2Fblog%2Fdata-visualization-for-colorblind-readers" target="_blank">
+            
+            <span id="hs_cos_wrapper_social_sharing_module_blog_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 264 512" aria-hidden="true"><g id="facebook-f1_layer"><path d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229" /></g></svg></span>
+            
+        </a>
+        
+
+        
+        <a class="twitter-icon" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fwww.datylon.com%2Fblog%2Fdata-visualization-for-colorblind-readers&amp;url=https%3A%2F%2Fwww.datylon.com%2Fblog%2Fdata-visualization-for-colorblind-readers&amp;source=tweetbutton&amp;text=The+best+charts+for+color+blind+viewers" target="_blank">
+            
+            <span id="hs_cos_wrapper_social_sharing_module_blog_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" aria-hidden="true"><g id="twitter2_layer"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" /></g></svg></span>
+            
+        </a>
+        
+
+        
+        <a class="linkedin-icon" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.datylon.com%2Fblog%2Fdata-visualization-for-colorblind-readers&amp;title=The+best+charts+for+color+blind+viewers&amp;summary=How+do+we+see+the+world+in+colors%3F+It+..." target="_blank">
+            
+            <span id="hs_cos_wrapper_social_sharing_module_blog_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" aria-hidden="true"><g id="linkedin-in3_layer"><path d="M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z" /></g></svg></span>
+            
+        </a>
+        
+
+        
+        <a class="email-icon" href="mailto:?subject=Check%20out%20The%20best%20charts%20for%20color%20blind%20viewers%20&amp;body=Check%20out%20https://www.datylon.com/blog/data-visualization-for-colorblind-readers">
+            
+            <span id="hs_cos_wrapper_social_sharing_module_blog_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" aria-hidden="true"><g id="envelope4_layer"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z" /></g></svg></span>
+            
+        </a>
+        
+
+    </div>
+</div>
+
+
+
+</div>
+              
+              <span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"><p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png?width=720&amp;name=datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png" alt="The best charts for colorblind viewers - discover the right color palette for your data visualization" width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png?width=360&amp;name=datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png?width=720&amp;name=datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png?width=1080&amp;name=datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png?width=1440&amp;name=datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png?width=1800&amp;name=datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png?width=2160&amp;name=datylon-blog-best-charts-for-colorblind-viewers-featured-image-1200x628.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>How do we see the world in colors? It all starts with the light. The light can come from the Sun, fire or a lamp sending waves of different lengths. The surfaces around us have different capacities for absorbing wavelengths, so some of the waves are absorbed, while others are reflected. The ones that are reflected can be perceived by our eyes. These waves go through the cornea and pupil and hit the retina. The retina consists of cones and rods. Cones are the ones that are responsible for color perception. The combination of waves that hit the cones form in our brain the perception of color.<img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png" alt="The three types of cones responsible for color perception." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-cones-and-colors.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<!--more-->
+<p style="font-size: 14px; text-align: center;"><span style="background-color: #ffffff; color: #666666;"><em>There are three types of cones: T</em></span><span style="background-color: #ffffff; color: #666666;"><em>he first type is sensitive to long wavelengths (starting from red, peaking at yellow, and declining at green). The second type is sensitive to middle wavelengths (starting at orange, peaking at green, and declining at blue). The third type is sensitive to short wavelengths (starting at green and peaking at blue).</em></span></p>
+<p style="font-size: 14px; text-align: center;">&nbsp;</p>
+<div data-hs-responsive-table="true" style="overflow-x: auto; max-width: 100%; width: 100%; margin-left: auto; margin-right: auto;">
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed; border: 1px solid #99acc2;">
+<tbody>
+<tr>
+<td style="width: 100%; padding: 40px; background-color: #f2f6ff;">
+<h3>Table of contents</h3>
+<p>&nbsp;</p>
+<p style="font-weight: bold;">1. <a href="#what-colors-can-they-see" rel="noopener" style="text-decoration: none; font-weight: bold;">What colors can color blind people see?</a></p>
+<p style="font-weight: bold;">2. <a href="#color-blind-palette" rel="noopener" style="text-decoration: none; font-weight: bold;">Color blind palette</a></p>
+<p style="font-weight: bold;">3. <a href="#how-to-make-them-color-blind-friendly" rel="noopener" style="text-decoration: none; font-weight: bold;">How to make charts color blind friendly?</a></p>
+<p style="font-weight: bold;">4. <a href="#good-bad-charts" rel="noopener" style="text-decoration: none; font-weight: bold;">Good and bad charts for color blind viewers</a></p>
+<ul>
+<li style="font-weight: normal;"><a href="#comparison-charts" rel="noopener" style="text-decoration: none;">Comparison charts</a></li>
+<li style="font-weight: normal;"><a href="#correlation-charts" rel="noopener" style="text-decoration: none;">Correlation charts</a></li>
+<li style="font-weight: normal;"><a href="#part-to-whole-charts" rel="noopener" style="text-decoration: none;">Part-to-whole &amp; hierarchical charts</a></li>
+<li style="font-weight: normal;"><a href="#data-over-time-charts" rel="noopener" style="text-decoration: none;">Data over time charts</a></li>
+<li style="font-weight: normal;"><a href="#distribution" rel="noopener" style="text-decoration: none;">Distribution</a></li>
+</ul>
+<p style="font-weight: bold;">5. <a href="#further-reading-resources" rel="noopener" style="text-decoration: none; font-weight: bold;">Further reading and resources</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<a id="what-colors-can-they-see" data-hs-anchor="true"></a>
+<h2 style="font-size: 30px;">What colors can color blind people see?</h2>
+<p>Actually, it depends on what type of cones don't work. There are three common types: protanopia (red-blind), deuteranopia (green-blind), and tritanopia (blue-blind). There can also be an intermediate state, color weakness - when the colors can be distinguished but some of the hue details are lost. There’s also a very rare state when all the cones are not working and the person is completely color blind – it’s called complete achromatopsia. In the next picture, the simulation of what colors can color blind people see is presented.</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png" alt="Colorblindness depends on what type of cones don't work. The three common types are protanopia, deuteranopia, and trianopia" width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>There are around 300 million people in the world who are colorblind. About 8% of men and 0.5% of women are colorblind, so making your chart color blind safe is a reasonable thing to do.</p>
+<div class="hs-embed-wrapper" data-service="insights.datylon" data-script-embed="true" data-responsive="true" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0px; max-width: 720px; min-width: 256px; display: block; margin: auto; max-height: 421px;"><div class="hs-embed-content-wrapper"><article data-datylon="a97dd4c1-6672-44d8-bae1-4592ed326553"><img src="https://insights.datylon.com/datystore/api/v1/publications/uuFFku0yZVOpfdTBZnJE2A/template" alt="There are around 300 million people in the world who are color blind. About 8% of men and 0.5% of women are color blind."><a href="https://insights.datylon.com/stories/uuFFku0yZVOpfdTBZnJE2A">Color blind stats</a></article><script src="https://insights.datylon.com/assets/embed.js" async></script></div></div>
+<p>&nbsp;</p>
+<a id="color-blind-palette" data-hs-anchor="true"></a>
+<h2 style="text-align: justify; font-size: 30px;">Color blind palette</h2>
+<p style="text-align: justify;">The picture below shows that for all of the types of color blindness there is a pair of colors that can be distinguished – red and blue – these are color blind safe colors. As for the green, it is the number one among the colors to avoid for the color blind. Most of the issues for colorblind people come from the prevalence of red-and-green combinations as a pair of opposites in design. The first rule of making a palette for colorblind – avoid combining red and green. So if you’re aiming to create a color blind-friendly palette try to use only two basic hues: blue and red (orange and yellow will also fit). The other colors should be made out of these two hues. All the variations can be made by using different saturation or lightness of the basic color. Based on these rules we’ve created a color blind palette and checked it for three color blindness types.&nbsp;</p>
+<p style="text-align: justify;"><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png" alt="For all of the types of color blindness, there is a pair of colors that can be distinguished – red and blue – these are color blind safe colors." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-color-blindness-palette.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>As you can see the palette worked for all types of color blindness, but you should always be aware that the variation of color-blind colors can vary significantly from person to person, so it’s always important to double-check. If you have a friend who is colorblind – ask for feedback. Alternatively, you can look up a colorblind community online and reach out to them. Don’t forget about people with complete color blindness and remember that 100% best colors for colorblind are black and white. So if your visualization works in greyscale you should be safe. Another advantage of using black and white data visualization is that they’re print-ready. But remember, if the palette is grayscale one should use other tools to distinguish chart elements. <br><br>There are a few tools that can help you to check your visuals. For this article, a <a href="https://www.color-blindness.com/2016/10/27/new-release-of-color-blindness-simulator/">color-blind simulator</a> was used from the Colorblindor website. There’s also a helpful internal tool in Adobe Illustrator. You can access it under <strong>View &gt; Proof Setup &gt; Color-Blindness - Protanopia-type or Deuteranopia-type.</strong><strong><span style="background-color: #d9ead3;"><br></span></strong></p>
+<p><span style="font-weight: normal;"><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png" alt="Helpful internal tool in Adobe Illustrator that can help you to check if your visuals are color blind friendly." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-Illutstrator-tools.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></span></p>
+<h2 style="font-size: 30px;">&nbsp;</h2>
+<a id="how-to-make-them-color-blind-friendly" data-hs-anchor="true"></a>
+<h2 style="font-size: 30px;">How to make charts color blind friendly?</h2>
+<p><strong>Use shapes and icons</strong> as an addition or alternative to color-coding. In case one needs to use colors that are not perceptible by colorblind users, a chart can be saved by using icons as an addition to color, duplicating its informational function.</p>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-use-icons.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-use-icons.png" alt="Make your charts color blind friendly: use shapes and icons as an addition or alternative to color-coding." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-use-icons.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-use-icons.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-use-icons.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-use-icons.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-use-icons.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-use-icons.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-use-icons.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-use-icons.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-use-icons.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-use-icons.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-use-icons.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-use-icons.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>Typically, it’s better to <strong>use direct labels</strong> instead of a legend – it saves the time and attention of a reader. Another advantage of direct labels is its ability to fix the usage of palettes that are not color blind friendly.</p>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png" alt="Make your charts color blind friendly: use direct labels instead of a legend." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-direct-labels.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>For line charts and their variations, <strong>dashed lines</strong> and <strong>lines with various stroke thicknesses</strong> can be a very helpful alternative to coloring.</p>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png" alt="Make your charts color blind friendly: dashed lines and lines with various stroke thicknesses are a very helpful alternative to coloring for line charts." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dashed-line.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p><strong>Adding strokes around chart elements</strong> might also help to distinguish one element from the other if the color might look the same for color-blind users.</p>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png" alt="Make your charts color blind friendly: add strokes around chart elements to distinguish one element from the other." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-separate-elements.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>If the usage of color is inevitable try to <strong>use a single hue</strong> <strong>palette. </strong>It will make the chart readable for all kinds of color blindness including monochromacy (when no color can be recognized). The second option is to <strong>use a red-yellow-blue palette</strong>. It will work for all kinds of color blindness except monochromacy.</p>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png" alt="Make your charts color blind friendly: try to use a single hue palette or a red-yellow-blue palette if the usage of color is inevitable." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-hue-color-palette.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p><strong>Use color for groups,</strong> not the individual categories. By doing that the number of colors will be reduced, as well as visual clutter and the possibility of color confusion.</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-group-color.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-group-color.png" alt="Make your charts color blind friendly: use color for groups, not the individual categories." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-group-color.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-group-color.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-group-color.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-group-color.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-group-color.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-group-color.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-group-color.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-group-color.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-group-color.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-group-color.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-group-color.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-group-color.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<h2 style="font-size: 30px;">&nbsp;</h2>
+<a id="good-bad-charts" data-hs-anchor="true"></a>
+<h2 style="font-size: 30px;">Good and bad charts for color blind viewers</h2>
+<p>Most of the charts can be modified to be colorblind-friendly, the difference is that some of the charts won’t suffer from the lack of color while the others are heavily dependent on color. Our recommendations are based on how easily one or the other chart can work without any color coding.<br><br></p>
+<a id="comparison-charts" data-hs-anchor="true"></a>
+<h3 style="font-size: 24px;">Comparison charts</h3>
+<p>&nbsp;</p>
+<h4>✅ Good choice: Dot plot (and Parallel coordinates)</h4>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png" alt="Dot plots (and parallel coordinates) are the best choice when it comes to comparison charts, especially for those with multiple categories at the same time." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-dot-plot.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>Dot plot could be both great and challenging. If the color is used for dot differentiation – it won’t work well. But if the dots are substituted with different colors per category it will make a very good choice for comparison of multiple categories at the same time.</p>
+<p>Check <a href="/product/chart-library/dot-plot" rel="noopener" target="_blank">this</a> resource page and learn how to design the best dot plots that will impress your audience.</p>
+<p>&nbsp;</p>
+<h4>❌&nbsp;Bad choice: Grouped bar/column chart</h4>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png" alt="Grouped bar/column charts are not the best choice when it comes to comparison charts, since they are too much based on the color differences of the bars of the same group." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-grouped-bar-chart.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>Grouped bar charts are usually based on the color differences of the bars of the same group. This makes it difficult to read for colorblind users. With a large number of categories, this chart becomes unreadable to everyone.</p>
+<p>&nbsp;</p>
+<a id="correlation-charts" data-hs-anchor="true"></a>
+<h3 style="font-size: 24px;">Correlation charts</h3>
+<p>&nbsp;</p>
+<h4>✅ Good choice: Bubble chart</h4>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png" alt="Bubble charts are the best choice when it comes to correlation charts, since they can easily be used without color." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-scatterplot.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>It can be easily used without color. X- and Y- axes, size, and different icons provide 4 dimensions already which is easily enough for most of the visualization tasks.</p>
+<p>➡️ <a href="https://insights.datylon.com/auth/join" rel="noopener" target="_blank">Datylon chart maker allows you to create beautiful bubble charts. Give it a try for free!</a></p>
+<p>&nbsp;</p>
+<h4>❌ Bad choice: Heatmap</h4>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-heatmap.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-heatmap.png" alt="Heatmaps are not the best choice when it comes to correlation charts, since they are heavily dependent on color." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-heatmap.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-heatmap.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-heatmap.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-heatmap.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-heatmap.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-heatmap.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-heatmap.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-heatmap.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-heatmap.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-heatmap.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-heatmap.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-heatmap.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>Heatmaps are heavily dependent on color, so the only way to make it safe for colorblind readers is to use one hue or grayscale palette.</p>
+<p>&nbsp;</p>
+<a id="part-to-whole-charts" data-hs-anchor="true"></a>
+<h3 style="font-size: 24px;">Part-to-whole &amp; hierarchical charts</h3>
+<p>&nbsp;</p>
+<h4>✅ Good choice: Icon array</h4>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-icon-array.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-icon-array.png" alt="Icon arrays are the best choice when it comes to part-to-whole &amp; hierarchical charts, since they do not depend on colored areas or sectors." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-icon-array.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-icon-array.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-icon-array.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-icon-array.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-icon-array.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-icon-array.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-icon-array.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-icon-array.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-icon-array.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-icon-array.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-icon-array.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-icon-array.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>Icon array is a rare case of a part-to-whole chart that doesn’t depend on colored areas or sectors. With the use of icons instead of color differentiation, this chart becomes a preferable chart type for colorblind people among all part-to-whole charts.</p>
+<p>&nbsp;</p>
+<h4>❌ Bad choice: Treemap</h4>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-treemap.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-treemap.png" alt="Treemaps are not the best choice when it comes to part-to-whole &amp; hierarchical charts, since they are heavily dependent on color." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-treemap.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-treemap.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-treemap.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-treemap.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-treemap.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-treemap.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-treemap.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-treemap.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-treemap.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-treemap.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-treemap.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-treemap.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>Similar to heatmaps, treemaps are famous for their extensive use of color. Surely, a treemap can be made also with a mono hue palette or just with the help of stroke borders, but the lack of color will weaken its visual strength, especially if a complex hierarchical structure should be presented. One of the things that can save a treemap is spacing between cells.</p>
+<p>&nbsp;</p>
+<a id="data-over-time-charts" data-hs-anchor="true"></a>
+<h3 style="font-size: 24px;">Date over time charts</h3>
+<p>&nbsp;</p>
+<h4>✅ Good choice: Line chart</h4>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-line-chart.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-line-chart.png" alt="Line charts are the best choice when it comes to date over time charts, since they can be modified in various ways to make it color blind friendly." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-line-chart.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-line-chart.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-line-chart.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-line-chart.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-line-chart.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-line-chart.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-line-chart.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-line-chart.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-line-chart.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-line-chart.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-line-chart.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-line-chart.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>The simplest and most flexible temporal chart that can be modified in various ways to make it readable for a colorblind audience. In the case of multiple categories, the line width can be modified as well as various types of dashed strokes. Direct labels and data marks can also be used to differentiate lines. Discover even more pro design tips on our dedicated <a href="/product/chart-library/line-chart" rel="noopener" target="_blank">line chart resource page</a> and advance your data visualization with Datylon.</p>
+<p>You can also easily create colorblind-friendly line charts with the Datylon chart maker. Sign up for free using <a href="https://insights.datylon.com/auth/join" rel="noopener" target="_blank">this</a> link.</p>
+<p>&nbsp;</p>
+<h4>❌ Bad choice: Streamgraph</h4>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png" alt="Streamgraphs are not the best choice when it comes to date over time charts, since they are helpless without color." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-streamgraph.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>A very beautiful chart, but helpless without color. It loses its attractiveness and readability right away.</p>
+<p>&nbsp;</p>
+<a id="distribution" data-hs-anchor="true"></a>
+<h3 style="font-size: 24px;">Distribution</h3>
+<p>&nbsp;</p>
+<h4>✅ Good choice: Density and ridgeline plots</h4>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-density-plot.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-density-plot.png" alt="Density and ridgeline plots are the best choice when it comes to distributive charts, since opacity and direct labels can substitute the need for coloring." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-density-plot.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-density-plot.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-density-plot.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-density-plot.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-density-plot.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-density-plot.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-density-plot.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-density-plot.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-density-plot.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-density-plot.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-density-plot.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-density-plot.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>&nbsp;</p>
+<p>A good choice for visualizing both single and multiple distributions. Opacity and direct labels can substitute the need for coloring.</p>
+<p>&nbsp;</p>
+<h4>❌ Bad choice: One-dimensional heatmap</h4>
+<p>&nbsp;</p>
+<p><img src="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png" alt="One-dimensional heatmaps are not the best choice when it comes to distributive charts, excepted if you use a one hue palette." width="720" loading="lazy" style="width: 720px; margin-left: auto; margin-right: auto; display: block;" srcset="https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png?width=360&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png 360w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png?width=720&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png 720w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png?width=1080&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png 1080w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png?width=1440&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png 1440w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png?width=1800&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png 1800w, https://www.datylon.com/hs-fs/hubfs/Datylon%20Website2020/Blogs/The%20best%20charts%20for%20color%20blind%20viewers/datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png?width=2160&amp;name=datylon-blog-best-charts-for-color-blind-viewers-one-dim-heatmap.png 2160w" sizes="(max-width: 720px) 100vw, 720px"></p>
+<p>A one-dimensional heatmap can quickly become a bad choice if multiple colors are used. One hue palette can work pretty well though.<br><br></p>
+<a id="further-reading-resources" data-hs-anchor="true"></a>
+<h2 style="font-size: 30px;">Further reading and resources</h2>
+<ul style="line-height: 1.5;">
+<li><span style="font-size: 18px;"><a href="/blog/mind-your-data-visualization-brain-capacity" rel="noopener" target="_blank">Mind your data visualization</a> - How to present your data effectively by getting the most out of your reader's brain capacity.</span></li>
+<li><span style="font-size: 18px;"><a href="/blog/9-types-of-data-visualization" rel="noopener" target="_blank">9 types of data visualization</a> - How to choose the right type for the right audience.</span></li>
+<li><span style="font-size: 18px;"><a href="/product/chart-library" rel="noopener" target="_blank">Datylon Chart Library</a> - Pro design tips to make the best charts and graphs and take your data visualization to the next level.</span><br><span style="font-size: 18px;"></span></li>
+</ul>
+<p><span style="font-size: 18px;">➡️ If you want to apply all these tips and make your data visualizations truly inclusive for different types of audiences, you need the full freedom of design to do so. Thankfully, you can do it with Datylon. Sign up using <a href="https://insights.datylon.com/auth/join" rel="noopener" target="_blank">this</a> link - it's free and only takes a few seconds.</span><span style="font-size: 18px;"></span></p>
+<p>&nbsp;</p></span>
+              </div>
+              
+              <div class="blog-post__meta blog-post_author">
+              
+                  <div class="blog-header__author-avatar blog-post_author_bottom-avatar">
+                      <img class="avatar" src="https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/ivan-kilin.jpeg?width=66&amp;name=ivan-kilin.jpeg">
+                  </div>
+              
+                  <div class="blog-post_author-details">
+                      <h4><a class="blog-header__author-name" href="https://www.datylon.com/blog/author/ivan">
+                          Ivan Kilin - Data Visualization Specialist
+                      </a></h4>
+                      <div class="blog-post__timestamp">
+                          
+                      </div>
+                      <p>Knows how every Datylon chart property works. Probably</p>
+                      
+                  </div>
+              </div>
+              
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="blog-related-posts">
+    <div class="content-wrapper">
+        <div class="related-posts-title">
+            <h2>Related blog posts</h2>
+            <p></p>
+        </div>
+        <div class="blog-related-posts__list blog-index">
+            
+            
+            
+  
+                <div class="blog-index__post blog-index__post--small">
+                
+  <div class="blog-recent-posts__post">
+    <div class="blog-recent-posts__image">
+        <a href="https://www.datylon.com/blog/dot-plot-deep-dive">
+        
+        
+        <img loading="lazy" src="https://www.datylon.com/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...%20dot%20plots/blog-deep-dive-dot-plot-overview-536x281%20red.png" srcset="https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...%20dot%20plots/blog-deep-dive-dot-plot-overview-536x281%20red.png?width=50&amp;name=blog-deep-dive-dot-plot-overview-536x281%20red.png 50w, https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...%20dot%20plots/blog-deep-dive-dot-plot-overview-536x281%20red.png?width=300&amp;name=blog-deep-dive-dot-plot-overview-536x281%20red.png 300w, https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...%20dot%20plots/blog-deep-dive-dot-plot-overview-536x281%20red.png?width=600&amp;name=blog-deep-dive-dot-plot-overview-536x281%20red.png 600w, https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...%20dot%20plots/blog-deep-dive-dot-plot-overview-536x281%20red.png?width=900&amp;name=blog-deep-dive-dot-plot-overview-536x281%20red.png 900w, https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...%20dot%20plots/blog-deep-dive-dot-plot-overview-536x281%20red.png?width=1200&amp;name=blog-deep-dive-dot-plot-overview-536x281%20red.png 1200w" sizes="(min-width:700px) 50vw,
+                    100vw" alt="A deep dive into dot plots">
+        </a>
+    </div>
+    <div class="blog-recent-posts__title-content">
+        
+        <h6 class="blog-post__tags">
+        
+          
+        <a class="blog-post__tag-link" href="https://www.datylon.com/blog/tag/dataviz-best-practices">DataViz Best Practices</a>
+        </h6>
+        
+        <h4 class="blog-recent-posts__title"><a href="https://www.datylon.com/blog/dot-plot-deep-dive">A deep dive into... dot plots</a></h4>
+        <div class="blog-recent-posts__content"><p>First things first: let’s start by clearing up some terminology. Chart naming always triggers a...</p></div>
+        <a class="link-small read-more" href="https://www.datylon.com/blog/dot-plot-deep-dive">
+            <span class="link-text">Read more</span>
+            <span class="link-icon">
+            <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" aria-hidden="true"><g id="layer1"><path d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></g></svg>
+            </span>
+        </a>
+    </div>
+  </div>
+
+                </div>
+            
+
+  
+                <div class="blog-index__post blog-index__post--small">
+                
+  <div class="blog-recent-posts__post">
+    <div class="blog-recent-posts__image">
+        <a href="https://www.datylon.com/blog/heatmap-deep-dive">
+        
+        
+        <img loading="lazy" src="https://www.datylon.com/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...heatmaps/blog-deep-dive-heatmap-overview-image-36x281.png" srcset="https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...heatmaps/blog-deep-dive-heatmap-overview-image-36x281.png?width=50&amp;name=blog-deep-dive-heatmap-overview-image-36x281.png 50w, https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...heatmaps/blog-deep-dive-heatmap-overview-image-36x281.png?width=300&amp;name=blog-deep-dive-heatmap-overview-image-36x281.png 300w, https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...heatmaps/blog-deep-dive-heatmap-overview-image-36x281.png?width=600&amp;name=blog-deep-dive-heatmap-overview-image-36x281.png 600w, https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...heatmaps/blog-deep-dive-heatmap-overview-image-36x281.png?width=900&amp;name=blog-deep-dive-heatmap-overview-image-36x281.png 900w, https://4144892.fs1.hubspotusercontent-na1.net/hub/4144892/hubfs/Datylon%20Website2020/Blogs/A%20deep%20dive%20into...heatmaps/blog-deep-dive-heatmap-overview-image-36x281.png?width=1200&amp;name=blog-deep-dive-heatmap-overview-image-36x281.png 1200w" sizes="(min-width:700px) 50vw,
+                    100vw" alt="A deep dive into... heatmaps">
+        </a>
+    </div>
+    <div class="blog-recent-posts__title-content">
+        
+        <h6 class="blog-post__tags">
+        
+          
+        <a class="blog-post__tag-link" href="https://www.datylon.com/blog/tag/dataviz-best-practices">DataViz Best Practices</a>
+        </h6>
+        
+        <h4 class="blog-recent-posts__title"><a href="https://www.datylon.com/blog/heatmap-deep-dive">A deep dive into... heatmaps</a></h4>
+        <div class="blog-recent-posts__content"><p>Chart types can sometimes be summarized into one iconic example. Think about the <a href="https://en.wikipedia.org/wiki/Hockey_stick_graph">global warming...</a></p></div>
+        <a class="link-small read-more" href="https://www.datylon.com/blog/heatmap-deep-dive">
+            <span class="link-text">Read more</span>
+            <span class="link-icon">
+            <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" aria-hidden="true"><g id="layer1"><path d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></g></svg>
+            </span>
+        </a>
+    </div>
+  </div>
+
+                </div>
+            
+
+
+            
+            <div class="blog-index__post blog-index__post--small blog-newsletter__wrapper blog-index__widget--newsletter">
+                <div class="blog-newsletter-padding">
+                <h4>Subscribe to our newsletter</h4>
+                <p>Receive inspiration, practical advice, customer stories and news right in your mailbox.</p>
+                
+                    <span id="hs_cos_wrapper_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="form"><h3 id="hs_cos_wrapper_form_951193341_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text"></h3>
+
+<div id="hs_form_target_form_951193341"></div>
+
+
+
+
+
+
+
+
+
+</span>
+                
+                
+                    <div class="blog-newsletter__bottomImage">
+                    <img loading="lazy" src="https://www.datylon.com/hubfs/website2020/Shared%20images/Newsletter.svg" alt="Newsletter">
+                    </div>
+                
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+       <!-- #END BODY END# -->
+
+       <!-- FOOTER -->
+        
+    
+   <div data-global-resource-path="Marketplace/leadstreet/themes/popular-theme/templates/partials/footer_v2.html"><footer class="footer footer-dnd">
+  <div class="container-fluid footer__content">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-section footer-row-0-padding">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 dnd-row">
+<div class="row-fluid ">
+<div class="span2 widget-span widget-type-cell dnd-column footer-column-2-margin" style="" data-widget-type="cell" data-x="0" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_footer-module-3" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_footer-module-3_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h5><strong>Company</strong></h5></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_widget_1647238060825" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_widget_1647238060825_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_widget_1647238060825_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/about-us" role="menuitem" target="_blank" rel="noopener">About us</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/projects" role="menuitem" target="_blank" rel="noopener">Projects</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/jobs" role="menuitem" target="_blank" rel="noopener">Jobs</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/contact-us" role="menuitem" target="_blank" rel="noopener">Contact us</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://help.datylon.com/faq/data-security" role="menuitem" target="_blank" rel="noopener">Data security</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.capterra.com/p/231404/Datylon/reviews/" role="menuitem" target="_blank" rel="noopener">Datylon reviews</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell cell_1647238165222-margin dnd-column" style="" data-widget-type="cell" data-x="2" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_16472381652224" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_16472381652224_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h5><strong>Product</strong></h5></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_16472381652225" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_16472381652225_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16472381652225_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/reporting/datylon-report-studio" role="menuitem" target="_self">Datylon Report Studio</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/reporting/datylon-report-server" role="menuitem" target="_self">Datylon Report Server</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/chart-design/datylon-for-illustrator" role="menuitem" target="_self">Datylon for Illustrator</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/chart-design/datylon-online-chart-maker" role="menuitem" target="_self">Datylon Online</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/product/datylon-enterprise" role="menuitem" target="_self">Datylon Enterprise</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/pricing" role="menuitem" target="_self">Pricing</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://help.datylon.com/faq/how-to-try-and-buy-plugin-illustrator" role="menuitem" target="_blank" rel="noopener">Free trial</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://help.datylon.com/release-notes" role="menuitem" target="_blank" rel="noopener">Release notes</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell cell_1647238168819-margin dnd-column" style="" data-widget-type="cell" data-x="4" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_16472381688194" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_16472381688194_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h5><strong>Resources</strong></h5></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-8 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_16472381688195" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_16472381688195_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16472381688195_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/resources/chart-library" role="menuitem" target="_self">Chart library</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://insights.datylon.com/stories" role="menuitem" target="_self">Inspiration</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/blog" role="menuitem" target="_self">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/customer-stories" role="menuitem" target="_self">Customer stories</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://help.datylon.com/faq" role="menuitem" target="_blank" rel="noopener">FAQ</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://help.datylon.com/" role="menuitem" target="_blank" rel="noopener">Help center</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://help.datylon.com/tutorials#video-tutorials" role="menuitem" target="_blank" rel="noopener">Video tutorials</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell cell_1647238172320-margin dnd-column" style="" data-widget-type="cell" data-x="6" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-9 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1647238172321" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1647238172321_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h5><strong>Create</strong></h5></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-10 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_16472381723212" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_16472381723212_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16472381723212_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/graph-maker" role="menuitem" target="_self">Graph maker</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/graph-tool-illustrator-chart-plugin" role="menuitem" target="_self">Illustrator chart plugin</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/pie-chart-maker" role="menuitem" target="_self">Pie chart maker</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/bar-graph-maker" role="menuitem" target="_self">Bar graph maker</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/line-graph-maker" role="menuitem" target="_self">Line graph maker</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/scatter-plot-maker" role="menuitem" target="_self">Scatter plot maker</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/bubble-chart-maker" role="menuitem" target="_self">Bubble chart maker</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/dot-plot-maker" role="menuitem" target="_self">Dot plot maker</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/create-charts" role="menuitem" target="_self">Free chart maker</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell cell_1647238174131-margin dnd-column" style="" data-widget-type="cell" data-x="8" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-11 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_16472381741314" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_16472381741314_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h5><strong>Learn</strong></h5></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-12 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1647238174132" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1647238174132_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_1647238174132_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu" class="active-branch">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://help.datylon.com/tutorials/get-started-with-datylon-for-illustrator" role="menuitem" target="_blank" rel="noopener">Getting started with Datylon for Illustrator</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/blog/data-visualization-terminology" role="menuitem" target="_blank" rel="noopener">Do you speak dataviz?</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/blog/mind-your-data-visualization-brain-capacity" role="menuitem" target="_blank" rel="noopener">Mind your data visualization</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/blog/9-types-of-data-visualization" role="menuitem" target="_blank" rel="noopener">9 types of data visualization</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 active active-branch" role="none"><a href="https://www.datylon.com/blog/data-visualization-for-colorblind-readers" role="menuitem" target="_blank" rel="noopener">The best charts for color blind viewers</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/blog/types-of-charts-graphs-examples-data-visualization" role="menuitem" target="_blank" rel="noopener">80 types of charts &amp; graphs</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/blog/guide-to-effective-data-visualization" role="menuitem" target="_blank" rel="noopener">A guide to effective data visualization</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/blog/best-data-visualization-tools" role="menuitem" target="_blank" rel="noopener">The best data visualization tools</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell cell_1647238170534-margin dnd-column" style="" data-widget-type="cell" data-x="10" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-13 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_16472381705345" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_16472381705345_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><ul></ul></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div>
+  
+  <div class="container-fluid footer__copyright">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-section bottom_footer-row-0-padding">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 bottom_footer-column-1-row-0-margin bottom_footer-column-1-row-0-vertical-alignment dnd-row">
+<div class="row-fluid ">
+<div class="span5 widget-span widget-type-cell cell_1647238741228-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="0" data-w="5">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 dnd-row cell_1647238741228-row-0-vertical-alignment">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell dnd-column cell_1648185549529-vertical-alignment" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 cell_1648185549529-row-0-vertical-alignment dnd-row">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-cell cell_1648185580638-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="0" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_widget_1647856694354" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_widget_1647856694354_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p>All rights reserved. © 2023 Datylon BV</p></span></div>
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-cell cell_1648185580641-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="6" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-3 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_bottom_footer-module-4" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_bottom_footer-module-4_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_bottom_footer-module-4_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/legal/customer-agreement" role="menuitem" target="_blank" rel="noopener">Legal Terms</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.datylon.com/legal/privacy-policy-website" role="menuitem" target="_blank" rel="noopener">Privacy Policy</a></li>
+ </ul>
+</div></span></div>
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span4 widget-span widget-type-cell cell_16472387412302-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="5" data-w="4">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_widget_1647238766470" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    <div class="footer-single-content">
+    
+        <div class="social-media-content">
+        
+            
+            
+            <a href="https://twitter.com/datylon" target="_blank">
+                <span id="hs_cos_wrapper_widget_1647238766470_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" aria-hidden="true"><g id="twitter1_layer"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" /></g></svg></span>
+            </a>
+        
+            
+            
+            <a href="https://www.linkedin.com/company/datylon" target="_blank">
+                <span id="hs_cos_wrapper_widget_1647238766470_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" aria-hidden="true"><g id="linkedin-in2_layer"><path d="M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z" /></g></svg></span>
+            </a>
+        
+            
+            
+            <a href="https://www.youtube.com/channel/UCTXotjJbDwJSGNYZwCHWNQw" target="_blank">
+                <span id="hs_cos_wrapper_widget_1647238766470_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" aria-hidden="true"><g id="youtube3_layer"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" /></g></svg></span>
+            </a>
+        
+            
+            
+            <a href="https://www.instagram.com/datylon/" target="_blank">
+                <span id="hs_cos_wrapper_widget_1647238766470_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" aria-hidden="true"><g id="instagram4_layer"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" /></g></svg></span>
+            </a>
+        
+            
+            
+            <a href="https://www.pinterest.com/datylon/" target="_blank">
+                <span id="hs_cos_wrapper_widget_1647238766470_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 496 512" aria-hidden="true"><g id="pinterest5_layer"><path d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z" /></g></svg></span>
+            </a>
+        
+            
+            
+            <a href="https://www.facebook.com/Datylon/" target="_blank">
+                <span id="hs_cos_wrapper_widget_1647238766470_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 264 512" aria-hidden="true"><g id="facebook-f6_layer"><path d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229" /></g></svg></span>
+            </a>
+        
+            
+            
+            <a href="https://datylon.medium.com/" target="_blank" rel="nofollow">
+                <span id="hs_cos_wrapper_widget_1647238766470_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" aria-hidden="true"><g id="medium-m7_layer"><path d="M71.5 142.3c.6-5.9-1.7-11.8-6.1-15.8L20.3 72.1V64h140.2l108.4 237.7L364.2 64h133.7v8.1l-38.6 37c-3.3 2.5-5 6.7-4.3 10.8v272c-.7 4.1 1 8.3 4.3 10.8l37.7 37v8.1H307.3v-8.1l39.1-37.9c3.8-3.8 3.8-5 3.8-10.8V171.2L241.5 447.1h-14.7L100.4 171.2v184.9c-1.1 7.8 1.5 15.6 7 21.2l50.8 61.6v8.1h-144v-8L65 377.3c5.4-5.6 7.9-13.5 6.5-21.2V142.3z" /></g></svg></span>
+            </a>
+        
+        </div>
+    
+    </div>
+</div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span3 widget-span widget-type-cell cell_1647853874294-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="9" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_widget_1647853874293" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_widget_1647853874293_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="text-align: right;"><a onclick="CookieConsent.renew();">Manage Cookies</a></p></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div>
+
+</footer></div>
+
+        <!-- #END FOOTER END# -->
+
+    </div>
+    <!-- Standar Footer Includes -->
+    
+    <script defer src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+<!-- HubSpot performance collection script -->
+<script defer src="https://static.hsappstatic.net/content-cwv-embed/static-1.240/embed.js"></script>
+<script src="https://www.datylon.com/hs-fs/hub/4144892/hub_generated/template_assets/32581413288/1677766642446/Marketplace/leadstreet/themes/popular-theme/js/main.min.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="https://www.datylon.com/hs-fs/hub/4144892/hub_generated/module_assets/32579356205/1598969862948/module_32579356205_PO_Menu_section.min.js"></script>
+<script src="https://www.datylon.com/hs-fs/hub/4144892/hub_generated/module_assets/32579515088/1601905987418/module_32579515088_PO_Social_Sharing.min.js"></script>
+
+    <!--[if lte IE 8]>
+    <script charset="utf-8" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+
+<script data-hs-allowed="true" src="/_hcms/forms/v2.js"></script>
+
+    <script data-hs-allowed="true">
+        var options = {
+            portalId: '4144892',
+            formId: '632d38d9-8072-41e7-8ad6-15545ef93c77',
+            formInstanceId: '3295',
+            pageId: '72061634877',
+            region: 'na1',
+            
+            
+            
+            
+            pageName: "The best charts for color blind viewers | Blog | Datylon",
+            
+            
+            
+            inlineMessage: "Thank you. You have been successfully subscribed.\u00A0<div id='newsletter-thank-you' class='1x1'>&nbsp;</div>",
+            
+            
+            rawInlineMessage: "Thank you. You have been successfully subscribed.\u00A0<div id='newsletter-thank-you' class='1x1'>&nbsp;</div>",
+            
+            
+            hsFormKey: "0a86ba810a8cb0c5c30101273c75d9a8",
+            
+            
+            css: '',
+            target: '#hs_form_target_form_951193341',
+            
+            
+            
+            
+            
+            contentType: "blog-post",
+            
+            
+            
+            formsBaseUrl: '/_hcms/forms/',
+            
+            
+            
+            formData: {
+                cssClass: 'hs-form stacked hs-custom-form'
+            }
+        };
+
+        options.getExtraMetaDataBeforeSubmit = function() {
+            var metadata = {};
+            
+
+            if (hbspt.targetedContentMetadata) {
+                var count = hbspt.targetedContentMetadata.length;
+                var targetedContentData = [];
+                for (var i = 0; i < count; i++) {
+                    var tc = hbspt.targetedContentMetadata[i];
+                     if ( tc.length !== 3) {
+                        continue;
+                     }
+                     targetedContentData.push({
+                        definitionId: tc[0],
+                        criterionId: tc[1],
+                        smartTypeId: tc[2]
+                     });
+                }
+                metadata["targetedContentMetadata"] = JSON.stringify(targetedContentData);
+            }
+
+            return metadata;
+        };
+
+        hbspt.forms.create(options);
+    </script>
+
+
+<!-- Start of HubSpot Analytics Code -->
+<script defer type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "blog-post"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.datylon.com\/blog\/data-visualization-for-colorblind-readers"]);
+_hsq.push(["setPageId", "72061634877"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 72061634877,
+    "legacyPageId": "72061634877",
+    "contentFolderId": null,
+    "contentGroupId": 5643395983,
+    "abTestId": null,
+    "languageVariantId": 72061634877,
+    "languageCode": "en",
+    
+}]);
+</script>
+
+<script defer type="text/javascript" id="hs-script-loader" async src="/hs/scriptloader/4144892.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script defer type="text/javascript">
+var hsVars = {
+    render_id: "6f5f140e-3031-49ee-b2ca-c50322ed8046",
+    ticks: 1688711202515,
+    page_id: 72061634877,
+    
+    content_group_id: 5643395983,
+    portal_id: 4144892,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "blog-post",
+    analytics_page_id: "72061634877",
+    category_id: 3,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.191/js/index.js"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NBX4HHB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+    <!-- #END Standar Footer Includes END# -->
+    <!-- custom JS -->
+    
+
+    
+    
+  
+</body></html>
